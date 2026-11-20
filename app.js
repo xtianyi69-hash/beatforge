@@ -350,6 +350,7 @@
     var spec = collectSpec();
     if (newSeed) {
       spec.seed = Math.floor(Math.random() * 1000000);
+      spec.variant = ((spec.variant || 0) + 1 + Math.floor(Math.random() * 3)) % 4;
       el.seed.value = String(spec.seed);
     }
     state.spec = spec;
@@ -397,6 +398,7 @@
     el.resBadges.innerHTML = '';
     var badges = [
       spec.styleLabel,
+      t('grooveBadge', (spec.variant || 0) + 1),
       'swing ' + Math.round(spec.swing * 100) + '%',
       res.duration.toFixed(1) + 's',
       'seed ' + spec.seed,

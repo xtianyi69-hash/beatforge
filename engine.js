@@ -41,7 +41,29 @@
     'levels.kick': '\u5e95\u9f13', 'levels.snare': '\u519b\u9f13', 'levels.hat': '\u8e29\u956c', 'levels.perc': '\u6253\u51fb\u4e50', 'levels.bass': '808 / \u8d1d\u65af',
     'levels.chords': '\u548c\u5f26', 'levels.guitar': '\u5409\u4ed6', 'levels.melody': '\u65cb\u5f8b', 'levels.flute': '\u7b1b\u5b50', 'levels.reverb': '\u6df7\u54cd',
     'refineNotes.keepMelody': '\u4fdd\u7559\u65cb\u5f8b', 'refineNotes.noVinyl': '\u53bb\u6389\u9ed1\u80f6', 'refineNotes.reverbBig': '\u6df7\u54cd\u66f4\u5927', 'refineNotes.reverbDry': '\u6df7\u54cd\u66f4\u5e72',
-    'refineNotes.noGuitar': '\u53bb\u6389\u5409\u4ed6\u5c42', 'refineNotes.noFlute': '\u53bb\u6389\u7b1b\u5b50', 'refineNotes.no808': '\u4e0d\u8981 808 / \u8d1d\u65af', 'refineNotes.keep808': '\u4fdd\u7559 808 / \u8d1d\u65af'
+    'refineNotes.noGuitar': '\u53bb\u6389\u5409\u4ed6\u5c42', 'refineNotes.noFlute': '\u53bb\u6389\u7b1b\u5b50', 'refineNotes.no808': '\u4e0d\u8981 808 / \u8d1d\u65af', 'refineNotes.keep808': '\u4fdd\u7559 808 / \u8d1d\u65af',
+    'refineNotes.newGroove': '\u6362\u5230\u5f8b\u52a8\u53d8\u4f53 {0}',
+    'notes.variant': '\u5f8b\u52a8\u53d8\u4f53 {0}', 'notes.energyHigh': '\u9ad8\u80fd\u91cf', 'notes.energyLow': '\u4f4e\u80fd\u91cf / \u677e\u5f1b',
+    'notes.happy': '\u5f00\u5fc3\u660e\u5feb', 'notes.sad': '\u60b2\u4f24\u6697\u6de1', 'notes.aggressive': '\u51f6\u72e0\u6709\u529b', 'notes.dreamy': '\u68a6\u5e7b\u7a7a\u7075',
+    'notes.sexy': '\u6027\u611f\u66d6\u6627', 'notes.mysterious': '\u795e\u79d8', 'notes.epic': '\u53f2\u8bd7\u5b8f\u5927', 'notes.nostalgic': '\u6000\u65e7\u590d\u53e4',
+    'notes.fourFloor': '\u56db\u8e29', 'notes.oneDrop': 'one drop', 'notes.steppers': 'steppers', 'notes.dembow': 'dembow',
+    'notes.breakbeat': 'breakbeat', 'notes.halfTime': '\u534a\u901f / half-time', 'notes.doubleTime': '\u53cc\u500d\u901f',
+    'notes.noHats': '\u4e0d\u8981\u8e29\u9570', 'notes.sixteenthHats': '16 \u5206\u8e29\u9570', 'notes.offbeatHats': '\u53cd\u62cd\u8e29\u9570',
+    'notes.sparseHats': '\u7a00\u758f\u8e29\u9570', 'notes.rideHats': 'ride \u9557', 'notes.noSnare': '\u4e0d\u8981\u519b\u9f13',
+    'notes.clapSnare': '\u62cd\u624b\u4ee3\u66ff\u519b\u9f13', 'notes.ghostSnare': '\u5e7d\u7075\u519b\u9f13', 'notes.shaker': '\u6c99\u9524',
+    'notes.tambourine': '\u94c3\u9f13', 'notes.crash': '\u52a0\u9577\u9557', 'notes.noFills': '\u4e0d\u52a0\u82b1',
+    'notes.noBass': '\u4e0d\u8981\u8d1d\u65af', 'notes.walkingBass': 'walking bass', 'notes.slapBass': 'slap bass',
+    'notes.subBass': 'sub bass', 'notes.glideBass': '\u6ed1\u97f3 808', 'notes.offbeatBass': '\u53cd\u62cd\u8d1d\u65af',
+    'notes.chordSustain': '\u957f\u97f3\u94fa\u5e95', 'notes.chordStab': '\u77ed\u4fc3\u5207\u594f', 'notes.chordArp': '\u7436\u97f3',
+    'notes.chordPluck': '\u62e8\u5f26\u5206\u89e3', 'notes.seventh': '\u4e03\u548c\u5f26', 'notes.ninth': '\u4e5d\u548c\u5f26',
+    'notes.noInst': '\u53bb\u6389{0}', 'notes.inst': '\u52a0{0}',
+    'notes.inst_piano': '\u94a2\u7434', 'notes.inst_strings': '\u5f26\u4e50', 'notes.inst_organ': '\u98ce\u7434', 'notes.inst_sax': '\u8428\u514b\u65af',
+    'notes.inst_synth': '\u5408\u6210\u5668', 'notes.inst_bell': '\u94c3 / \u949f\u7434', 'notes.inst_cowbell': '\u725b\u94c3', 'notes.inst_pluck': '\u62e8\u5f26',
+    'notes.inst_pad': 'Pad \u94fa\u5e95',
+    'notes.tape': '\u78c1\u5e26\u97f3\u8272', 'notes.delay': '\u56de\u58f0 / delay', 'notes.sidechain': '\u4fa7\u94fe\u62bd\u5438',
+    'notes.distortion': '\u5931\u771f', 'notes.registerHigh': '\u9ad8\u516b\u5ea6', 'notes.registerLow': '\u4f4e\u516b\u5ea6',
+    'notes.unsupportedVocal': '\u4e0d\u652f\u6301\u4eba\u58f0\uff0c\u5df2\u751f\u6210\u7eaf\u4f34\u594f', 'notes.unsupportedSample': '\u4e0d\u4f7f\u7528\u91c7\u6837\uff0c\u5168\u90e8\u4e3a\u5408\u6210\u97f3\u8272',
+    'notes.unsupportedArtist': '\u4e0d\u6a21\u4eff\u5177\u4f53\u6b4c\u66f2 / \u827a\u4eba\uff0c\u6309\u98ce\u683c\u8fd1\u4f3c'
   };
   function tr(key, args) {
     if (translator) return translator(key, args);
@@ -154,30 +176,36 @@
   }
 
   function pickProgression(spec, rng) {
-    var minor = [[0, 5, 2, 6], [0, 3, 5, 4], [0, 5, 3, 6], [0, 2, 5, 4], [0, 6, 2, 6], [0, 3, 6, 2]];
-    var major = [[0, 4, 5, 3], [0, 5, 3, 4], [1, 4, 0, 5], [0, 3, 4, 4]];
-    var trapish = [[0, 5, 0, 5], [0, 2, 0, 2], [0, 6, 5, 6], [0, 3, 0, 3]];
-    var lofi = [[1, 4, 0, 0], [0, 3, 5, 4], [0, 5, 1, 4]];
-    var rock = [[0, 5, 2, 6], [0, 6, 5, 6], [0, 3, 5, 4], [0, 5, 3, 6]];
+    var minor = [[0, 5, 2, 6], [0, 3, 5, 4], [0, 5, 3, 6], [0, 2, 5, 4], [0, 6, 2, 6], [0, 3, 6, 2], [0, 5, 6, 4], [5, 3, 0, 6]];
+    var major = [[0, 4, 5, 3], [0, 5, 3, 4], [1, 4, 0, 5], [0, 3, 4, 4], [0, 4, 1, 5], [5, 3, 0, 4], [0, 2, 5, 4], [3, 4, 0, 5]];
+    var trapish = [[0, 5, 0, 5], [0, 2, 0, 2], [0, 6, 5, 6], [0, 3, 0, 3], [0, 5, 6, 2], [0, 3, 5, 2], [5, 6, 0, 4], [0, 2, 6, 5]];
+    var lofi = [[1, 4, 0, 0], [0, 3, 5, 4], [0, 5, 1, 4], [1, 4, 5, 0], [0, 3, 6, 2], [2, 5, 1, 4]];
+    var rock = [[0, 5, 2, 6], [0, 6, 5, 6], [0, 3, 5, 4], [0, 5, 3, 6], [0, 4, 5, 3], [0, 2, 6, 4]];
     var byStyle = {
-      jazz: [[1, 4, 0, 0], [1, 4, 0, 5], [2, 5, 1, 4]],
-      reggae: [[0, 4, 5, 3], [0, 0, 3, 4], [0, 5, 3, 4]],
-      bossa: [[1, 4, 0, 0], [0, 3, 4, 4], [1, 4, 5, 0]],
-      funk: [[0, 0, 3, 4], [0, 3, 0, 4], [0, 0, 0, 3]],
-      synthwave: [[0, 5, 3, 4], [0, 6, 3, 4], [1, 4, 0, 5]],
-      dnb: [[0, 5, 3, 6], [0, 2, 5, 6], [0, 6, 5, 3]],
-      reggaeton: [[0, 5, 3, 4], [0, 0, 3, 4], [0, 6, 5, 6]],
-      afrobeats: [[0, 4, 5, 3], [0, 3, 4, 0], [0, 5, 3, 4]]
+      jazz: [[1, 4, 0, 0], [1, 4, 0, 5], [2, 5, 1, 4], [1, 4, 3, 0], [0, 5, 1, 4], [2, 5, 0, 4]],
+      reggae: [[0, 4, 5, 3], [0, 0, 3, 4], [0, 5, 3, 4], [0, 3, 4, 4], [5, 4, 0, 3]],
+      bossa: [[1, 4, 0, 0], [0, 3, 4, 4], [1, 4, 5, 0], [0, 5, 1, 4], [1, 4, 3, 0], [0, 3, 6, 2]],
+      funk: [[0, 0, 3, 4], [0, 3, 0, 4], [0, 0, 0, 3], [0, 3, 4, 3], [0, 5, 3, 4], [0, 0, 5, 3]],
+      synthwave: [[0, 5, 3, 4], [0, 6, 3, 4], [1, 4, 0, 5], [0, 3, 6, 4], [0, 4, 5, 3], [5, 3, 0, 6]],
+      dnb: [[0, 5, 3, 6], [0, 2, 5, 6], [0, 6, 5, 3], [0, 3, 6, 2], [0, 5, 6, 2], [5, 6, 0, 3]],
+      reggaeton: [[0, 5, 3, 4], [0, 0, 3, 4], [0, 6, 5, 6], [0, 3, 5, 4], [0, 5, 6, 2]],
+      afrobeats: [[0, 4, 5, 3], [0, 3, 4, 0], [0, 5, 3, 4], [0, 4, 1, 5], [5, 4, 0, 3], [0, 2, 5, 4]],
+      boom_bap: minor.concat([[1, 4, 0, 5], [0, 5, 1, 4]]),
+      house: [[0, 5, 3, 4], [0, 3, 5, 4], [0, 5, 1, 4], [0, 2, 5, 4], [0, 6, 5, 4], [5, 3, 0, 4]],
+      trap: trapish,
+      drill: trapish.concat([[0, 6, 0, 5], [0, 2, 3, 5]]),
+      modernrap: trapish.concat([[0, 5, 2, 6], [0, 3, 2, 5]]),
+      phonk: [[0, 0, 3, 4], [0, 3, 0, 4], [0, 0, 5, 3], [0, 6, 0, 5], [0, 3, 5, 3]],
+      lofi: lofi,
+      rock: rock,
+      rock80s: [[0, 5, 3, 4], [0, 3, 4, 4], [0, 4, 5, 3], [0, 5, 4, 3], [0, 4, 1, 5], [5, 3, 0, 4]]
     };
     var pool;
     if (byStyle[spec.style]) pool = byStyle[spec.style];
     else if (spec.mode === 'major') pool = major;
-    else if (spec.style === 'rock') pool = rock;
-    else if (spec.style === 'rock80s') pool = [[0, 5, 3, 4], [0, 3, 4, 4], [0, 4, 5, 3], [0, 5, 4, 3]];
-    else if (spec.style === 'lofi') pool = lofi;
-    else if (isTrapish(spec.style)) pool = trapish;
     else pool = minor;
-    return pool[Math.floor(rng() * pool.length) % pool.length];
+    var idx = (Math.floor(rng() * pool.length) + (spec.variant || 0)) % pool.length;
+    return pool[idx];
   }
 
   /* ============================================================
@@ -355,11 +383,159 @@
     return null;
   }
 
+  /* 把“更具体”的自然语言落到可渲染参数上。
+     这里只处理旧解析器没覆盖的维度，避免与 BPM/调性/旋律等重复。 */
+  function applyTraits(spec, low, notes) {
+    function add(k, a) { notes.push(tr('notes.' + k, a)); }
+    var neg = '(?:不要|去掉|别用|不加|不用|没有|no|without)';
+    function isOff(re) {
+      return new RegExp(neg + '[^，,。；;\\n]{0,6}(?:' + re.source + ')', 'i').test(low);
+    }
+
+    // 律动变体：第 1/2/3/4 种
+    var vm = low.match(/(?:变体|variant|第)\s*([1-4一二三四])\s*(?:种|版)?/i);
+    if (vm) {
+      var vmap = { '1': 0, '2': 1, '3': 2, '4': 3, '一': 0, '二': 1, '三': 2, '四': 3 };
+      spec.variant = vmap[vm[1]] == null ? spec.variant : vmap[vm[1]];
+      add('variant', spec.variant + 1);
+    }
+
+    // 能量 / 情绪
+    if (/能量|energetic|hype|燃|炸|激烈|high\s*energy|banger|club/.test(low)) {
+      spec.energy = 0.86;
+      spec.complexity = clamp(spec.complexity + 0.12, 0, 1);
+      add('energyHigh');
+    } else if (/chill|放松|舒缓|冷静|慵懒|laid\s*back|low\s*energy|mellow|cozy/.test(low)) {
+      spec.energy = 0.28;
+      spec.complexity = clamp(spec.complexity - 0.1, 0, 1);
+      add('energyLow');
+    }
+    if (/开心|快乐|阳光|happy|uplifting|joyful|cheerful/.test(low)) {
+      if (!/小调|minor/.test(low)) spec.mode = 'major';
+      spec.bright = Math.max(spec.bright, 0.72);
+      add('happy');
+    }
+    if (/悲伤|忧郁|难过|sad|melanchol|emo\b|lonely/.test(low)) {
+      spec.mode = 'minor';
+      spec.bright = Math.min(spec.bright, 0.34);
+      spec.melody = clamp(spec.melody + 0.08, 0, 1);
+      add('sad');
+    }
+    if (/凶狠|暴躁|猛|硬|aggressive|angry|hard|menacing/.test(low)) {
+      spec.energy = 0.9;
+      spec.distortion = true;
+      add('aggressive');
+    }
+    if (/梦幻|空灵|氛围|dreamy|ethereal|atmospheric|shoegaze/.test(low)) {
+      spec.reverb = clamp(spec.reverb + 0.14, 0, 0.5);
+      spec.bright = Math.min(spec.bright, 0.62);
+      spec.addPad = true;
+      add('dreamy');
+      add('pad');
+    }
+    if (/性感|暧昧|sultry|sexy/.test(low)) {
+      spec.swing = clamp(spec.swing + 0.05, 0, 0.45);
+      spec.bright = 0.44;
+      add('sexy');
+    }
+    if (/神秘|悬疑|mysterious|eerie|dark\s*ambient/.test(low)) {
+      spec.mode = 'minor';
+      spec.bright = Math.min(spec.bright, 0.3);
+      add('mysterious');
+    }
+    if (/史诗|宏大|epic|cinematic|trailer/.test(low)) {
+      spec.reverb = clamp(spec.reverb + 0.16, 0, 0.5);
+      spec.addStrings = true;
+      add('epic');
+      add('strings');
+    }
+    if (/怀旧|复古|nostalgic|retro|old\s*school/.test(low)) {
+      spec.vinyl = clamp(spec.vinyl + 0.18, 0, 0.85);
+      spec.bright = Math.min(spec.bright, 0.55);
+      add('nostalgic');
+    }
+
+    // 鼓组变化
+    if (/四踩|four\s*on\s*the\s*floor|4\s*on\s*the\s*floor/.test(low)) { spec.kickStyle = 'four'; add('fourFloor'); }
+    if (/one\s*drop|one-drop|一下雷鬼/.test(low)) { spec.kickStyle = 'one_drop'; add('oneDrop'); }
+    if (/steppers?|steppa/.test(low)) { spec.kickStyle = 'steppers'; add('steppers'); }
+    if (/dembow|雷鬼顿鼓/.test(low)) { spec.kickStyle = 'dembow'; add('dembow'); }
+    if (/breakbeat|碎拍|breaks/.test(low)) { spec.kickStyle = 'breakbeat'; add('breakbeat'); }
+    if (/half[\s-]?time|半速|半拍/.test(low)) { spec.halfTime = true; add('halfTime'); }
+    if (/double[\s-]?time|双倍速|两倍速|快鼓/.test(low)) { spec.doubleTime = true; add('doubleTime'); }
+
+    if (isOff(/踩镲|镲片|hi.?hat|hats?/)) { spec.noHats = true; add('noHats'); }
+    else if (/16\s*分(踩镲|镲)|sixteenth|密集(踩镲|镲)|hi.?hat\s*rolls?|踩镲密|hat\s*rolls?/.test(low)) { spec.hatStyle = '16th'; add('sixteenthHats'); }
+    else if (/反拍(踩镲|镲)|offbeat\s*hats?/.test(low)) { spec.hatStyle = 'offbeat'; add('offbeatHats'); }
+    else if (/(踩镲|镲|hats?).{0,6}(少|稀疏)|sparse\s*hats?/.test(low)) { spec.hatStyle = 'sparse'; add('sparseHats'); }
+    else if (/ride|叮叮镲/.test(low)) { spec.hatStyle = 'ride'; add('rideHats'); }
+
+    if (isOff(/军鼓|snare/)) { spec.snareStyle = 'none'; add('noSnare'); }
+    else if (/拍手|clap|handclap/.test(low)) { spec.snareStyle = 'clap'; add('clapSnare'); }
+    if (/幽灵音|ghost\s*note/.test(low)) add('ghostSnare');
+    if (/沙锤|shaker/.test(low)) { spec.shaker = true; spec.percStyle = 'shaker16'; add('shaker'); }
+    if (/铃鼓|tambourine/.test(low)) { spec.tambourine = true; spec.percStyle = 'tamb'; add('tambourine'); }
+    if (/加镲|加一片镲|crash/.test(low) && !spec.noHats) { spec.crash = true; add('crash'); }
+    if (/不要.{0,3}(加花|fill)|no\s*fills?/.test(low)) { spec.noFills = true; add('noFills'); }
+
+    // 贝斯
+    if (isOff(/贝斯|bass|低音/)) { spec.noBass = true; add('noBass'); }
+    else if (/walking|行走贝斯|走动贝斯/.test(low)) { spec.bassStyle = 'walking'; add('walkingBass'); }
+    else if (/slap|击弦|slapping/.test(low)) { spec.bassStyle = 'slap'; add('slapBass'); }
+    else if (/sub\s*bass|超低音|次低音|低频铺底/.test(low)) { spec.bassStyle = 'sub'; add('subBass'); }
+    else if (/滑音|glide|slide|808\s*滑/.test(low)) { spec.bassStyle = 'glide'; add('glideBass'); }
+    else if (/反拍贝斯|offbeat\s*bass|reggae\s*bass/.test(low)) { spec.bassStyle = 'offbeat'; add('offbeatBass'); }
+
+    // 和弦 / 和声
+    if (/长音|铺底|铺满|sustained?|sustain|pad\s*chords?/.test(low)) { spec.chordStyle = 'sustain'; add('chordSustain'); }
+    else if (/短促|断奏|stab|staccato/.test(low)) { spec.chordStyle = 'stab'; add('chordStab'); }
+    else if (/琶音|arpeggio|arp\b/.test(low)) { spec.chordStyle = 'arp'; add('chordArp'); }
+    else if (/分解和弦|拨弦|pluck|指弹/.test(low)) { spec.chordStyle = 'pluck'; add('chordPluck'); }
+    if (/七和弦|7th|seventh/.test(low)) { spec.ext = '7'; add('seventh'); }
+    else if (/九和弦|9th|ninth/.test(low)) { spec.ext = '9'; add('ninth'); }
+
+    // 乐器层（加 / 不要）
+    var insts = [
+      ['Piano', /钢琴|piano|键盘|keys/, 'piano', '钢琴'],
+      ['Strings', /弦乐|strings?|小提琴|violin|cello|大提琴/, 'strings', '弦乐'],
+      ['Organ', /风琴|organ|管风琴/, 'organ', '风琴'],
+      ['Sax', /萨克斯|sax|saxophone/, 'sax', '萨克斯'],
+      ['Synth', /合成器|synth|电子主音|lead\s*synth/, 'synth', '合成器'],
+      ['Bell', /钟琴|铃音|bell(?!.*drum)|glockenspiel|celesta/, 'bell', '铃/钟琴'],
+      ['Cowbell', /牛铃|cowbell/, 'cowbell', '牛铃'],
+      ['Pluck', /拨弦|pluck|分解和弦|指弹/, 'pluck', '拨弦'],
+      ['Pad', /\bpad\b|铺底|氛围垫|ambient/, 'pad', 'Pad 铺底']
+    ];
+    insts.forEach(function (it) {
+      if (isOff(it[1])) {
+        spec['add' + it[0]] = false;
+        add('noInst', tr('notes.inst_' + it[2]));
+      } else if (it[1].test(low)) {
+        spec['add' + it[0]] = true;
+        add('inst', tr('notes.inst_' + it[2]));
+      }
+    });
+
+    // 混音 / 效果
+    if (/磁带|tape|wobble|抖动/.test(low)) { spec.tape = true; add('tape'); }
+    if (/回声|delay|echo|ping.?pong/.test(low)) { spec.delayFx = true; add('delay'); }
+    if (/抽吸|侧链|sidechain|pumping/.test(low)) { spec.sidechain = true; add('sidechain'); }
+    if (/失真|distortion|overdrive|破音/.test(low)) { spec.distortion = true; add('distortion'); }
+    if (/高音区|高八度|high\s*register|octave\s*up/.test(low)) { spec.register = 1; add('registerHigh'); }
+    else if (/低音区|低八度|low\s*register|octave\s*down/.test(low)) { spec.register = -1; add('registerLow'); }
+
+    // 无法做到的请求：明确告诉用户，而不是假装听懂
+    if ((/人声|vocal|唱歌|歌词/.test(low)) && !/不要.{0,3}人声|no\s*vocals?|纯伴奏/.test(low)) add('unsupportedVocal');
+    if (/采样|sample/.test(low) && !/不要.{0,3}(采样|sample)|不用.{0,3}(采样|sample)|no\s*samples?|无采样/.test(low)) add('unsupportedSample');
+    if (/模仿|像.{1,10}(风格|一样)|in the style of|sounds?\s+like/.test(low)) add('unsupportedArtist');
+  }
+
   function parsePrompt(text) {
     var t = String(text == null ? '' : text);
     var low = t.toLowerCase();
     var style = detectStyle(low);
     var def = STYLE_DEFS[style];
+    var seed = hash32(t) >>> 0;
     var notes = [tr('noteStyle', def.label)];
     var wantsGuitar = ROCK_RE.test(low);
     if (style === 'rock') notes.push(tr('noteGuitarRock'));
@@ -394,7 +570,13 @@
     if (key && key.root != null) {
       rootPc = key.root;
       mode = key.mode || def.mode;
-      notes.push(tr('notes.rootMode', ROOT_NAMES[rootPc] + ' ' + (tr('mode_' + mode, MODES[mode].label))));
+      notes.push(tr('notes.rootMode', [ROOT_NAMES[rootPc], tr('mode_' + mode, MODES[mode].label)]));
+    } else if (/大调|major/.test(low)) {
+      mode = 'major';
+      notes.push(tr('notes.rootMode', [ROOT_NAMES[rootPc], tr('mode_major', MODES.major.label)]));
+    } else if (/小调|minor/.test(low)) {
+      mode = 'minor';
+      notes.push(tr('notes.rootMode', [ROOT_NAMES[rootPc], tr('mode_minor', MODES.minor.label)]));
     }
 
     var swing = def.swing;
@@ -434,14 +616,14 @@
     var triplet = /三连音|triplet/.test(low);
     if (triplet) notes.push(tr('notes.triplet'));
 
-    return {
+    var spec = {
       style: style,
       bpm: bpm,
       bars: bars,
       swing: clamp(swing, 0, 0.45),
       rootPc: rootPc,
       mode: mode,
-      seed: hash32(t) >>> 0,
+      seed: seed,
       vinyl: clamp(vinyl, 0, 0.85),
       reverb: clamp(reverb, 0, 0.5),
       melody: clamp(melody, 0, 1),
@@ -452,8 +634,19 @@
       triplet: triplet,
       guitarLayer: wantsGuitar && style !== 'rock',
       flute: flute,
+      variant: (seed >>> 7) % 4,
+      energy: 0.5,
+      addPiano: false, addStrings: false, addOrgan: false, addSax: false,
+      addSynth: false, addBell: false, addCowbell: false, addPluck: false, addPad: false,
+      kickStyle: '', hatStyle: '', snareStyle: '', percStyle: '', bassStyle: '', chordStyle: '',
+      halfTime: false, doubleTime: false, noHats: false, shaker: false, tambourine: false,
+      crash: false, noFills: false, noBass: false, register: 0,
+      tape: false, delayFx: false, sidechain: false, distortion: false,
+      ext: '', sus: false,
       notes: notes
     };
+    applyTraits(spec, low, notes);
+    return spec;
   }
 
   /* ============================================================
@@ -1089,9 +1282,374 @@
     }
   }
 
+  /* 原声钢琴：基频 + 二次/三次泛音 + 短促击弦噪声 */
+  function addPiano(out, start, freq, dur, vel, rng) {
+    if (start >= out.length) return;
+    var n = Math.min(Math.floor((dur + 0.55) * SR), out.length - start);
+    var p1 = 0, p2 = 0, p3 = 0, p4 = 0;
+    var decay = 0.9 + 0.5 * (220 / Math.max(80, freq));
+    for (var i = 0; i < n; i++) {
+      var t = i / SR;
+      p1 += freq / SR;
+      p2 += (freq * 2.002) / SR;
+      p3 += (freq * 3.004) / SR;
+      p4 += (freq * 4.01) / SR;
+      var body = sine(p1) * 0.66 + sine(p2) * 0.22 + sine(p3) * 0.09 + sine(p4) * 0.03;
+      var hammer = t < 0.012 ? (rng() * 2 - 1) * (1 - t / 0.012) * 0.16 : 0;
+      var env = Math.min(1, t / 0.0025) * Math.exp(-t / decay);
+      if (t > dur) env *= Math.exp(-(t - dur) / 0.16);
+      out[start + i] += (body + hammer) * env * vel * 0.42;
+    }
+  }
+
+  /* 弦乐合奏：三个微失谐锯齿波，慢起音，柔和低通 */
+  function addStrings(out, start, freq, dur, vel) {
+    if (start >= out.length) return;
+    var n = Math.min(Math.floor((dur + 0.55) * SR), out.length - start);
+    var ph = [0, 0, 0, 0];
+    var dets = [-0.006, -0.002, 0.002, 0.006];
+    var lp = 0;
+    var lpA = 1 - Math.exp(-TAU * 2400 / SR);
+    for (var i = 0; i < n; i++) {
+      var t = i / SR;
+      var s = 0;
+      for (var k = 0; k < 4; k++) {
+        ph[k] += (freq * (1 + dets[k])) / SR;
+        s += saw(ph[k]);
+      }
+      s /= 4;
+      lp += lpA * (s - lp);
+      var env = Math.min(1, t / 0.16) * (0.78 + 0.22 * Math.exp(-t / 1.4));
+      if (t > dur) env *= Math.exp(-(t - dur) / 0.3);
+      out[start + i] += lp * env * vel * 0.17;
+    }
+  }
+
+  /* 萨克斯：锯齿 + 方波、颤音、气声，带一点共鸣感 */
+  function addSax(out, start, freq, dur, vel, rng) {
+    if (start >= out.length) return;
+    var n = Math.min(Math.floor((dur + 0.22) * SR), out.length - start);
+    var p1 = 0, p2 = 0, lp = 0;
+    var lpA = 1 - Math.exp(-TAU * 2700 / SR);
+    var vib = 0;
+    for (var i = 0; i < n; i++) {
+      var t = i / SR;
+      vib += TAU * 5.2 / SR;
+      var f = freq * (1 + 0.006 * sine(vib) * Math.min(1, t / 0.18));
+      p1 += f / SR;
+      p2 += (f * 2.003) / SR;
+      var s = saw(p1) * 0.62 + (sine(p2) >= 0 ? 0.18 : -0.18);
+      var breath = (rng() * 2 - 1) * 0.10 * Math.exp(-t / 0.09);
+      lp += lpA * (s + breath - lp);
+      var env = Math.min(1, t / 0.035) * (0.82 + 0.18 * Math.min(1, t / 0.4));
+      if (t > dur) env *= Math.exp(-(t - dur) / 0.09);
+      out[start + i] += Math.tanh(lp * 1.25) * env * vel * 0.34;
+    }
+  }
+
   /* ============================================================
    * 编曲 / 事件生成
    * ============================================================ */
+
+  /* 每种风格 4 条律动。字符串按 16 分音符写：
+     X = 重音, x = 常规, g = 幽灵音, o = 开镲, . = 空拍。 */
+  var GROOVE_BANK = {
+    boom_bap: {
+      kick: ['X.....x...x.....', 'X.....x.x.x.....', 'X..x..x...x.....', 'X.....x...x...x.'],
+      snare: ['....X.......X...', '....X.......X..g', '....X.....g.X...', '....X...g...X...'],
+      hats: ['8th', '8thOff', '16th', 'offbeat'],
+      perc: ['rim', 'shaker8', 'rim', 'shaker16'],
+      fill: 'snare', soft: true
+    },
+    lofi: {
+      kick: ['X.....x...x.....', 'X.....x.x.x.....', 'X..x..x...x.....', 'X.....x...x...x.'],
+      snare: ['....X.......X...', '....X.......X..g', '....X.....g.X...', '....X...g...X...'],
+      hats: ['8th', 'sparse', '16th', 'offbeat'],
+      perc: ['shaker8', 'shaker8', 'shaker16', 'rim'],
+      fill: 'snare', soft: true
+    },
+    trap: {
+      kick: ['X.....x...x.....', 'X.....x.x.x.....', 'X.....x...x..x..', 'X..x..x...x.....'],
+      snare: ['........X.......', '........X.....g.', '........X...g...', '....g...X.......'],
+      hats: ['16th', '16thRoll', '8th', '16th'],
+      perc: ['none', 'rim', 'none', 'rim'],
+      clap: true, fill: 'hatroll'
+    },
+    drill: {
+      kick: ['X......x..x.....', 'X......x..x..x..', 'X..x...x..x.....', 'X......x.....x..'],
+      snare: ['........X.......', '........X.....g.', '........X...X...', '....g...X.......'],
+      hats: ['16th', '16thRoll', '8th', '16th'],
+      perc: ['none', 'rim', 'none', 'rim'],
+      clap: true, fill: 'hatroll'
+    },
+    modernrap: {
+      kick: ['X.....x...x.....', 'X.....x.x.x.....', 'X.....x...x..x..', 'X..x..x...x.....'],
+      snare: ['........X.......', '........X.....g.', '........X...g...', '........X..g....'],
+      hats: ['16thRoll', '16th', '16thRoll', '8th'],
+      perc: ['none', 'none', 'rim', 'rim'],
+      clap: true, fill: 'hatroll'
+    },
+    house: {
+      kick: ['X...X...X...X...', 'X...X...X...X...', 'X...X...X...X...', 'X...X...X...X...'],
+      snare: ['....x.......x...', '....x.......x...', '....x.......x..g', '....x.....g.x...'],
+      hats: ['offbeatOpen16', 'offbeatOpen', '16th', 'offbeatOpen16'],
+      perc: ['shaker8', 'shaker16', 'shaker16', 'shaker8'],
+      fill: 'snare'
+    },
+    phonk: {
+      kick: ['X.....x...x.....', 'X.....x.x.x.....', 'X..x..x...x.....', 'X.....x...x..x..'],
+      snare: ['....X.......X...', '....X.......X..g', '....X.....g.X...', '....X...g...X...'],
+      hats: ['8th', '8thOff', '16th', 'offbeat'],
+      perc: ['rim', 'none', 'rim', 'shaker8'],
+      fill: 'snare'
+    },
+    rock: {
+      kick: ['X.......X.......', 'X.......X...x...', 'X...x...X.......', 'X.....x.X...x...'],
+      snare: ['....X.......X...', '....X.......X..g', '....X.....g.X...', '....X...g...X...'],
+      hats: ['8th', '8th', '16th', 'offbeat'],
+      perc: ['none', 'none', 'none', 'none'],
+      fill: 'tom', crashEvery: 4
+    },
+    rock80s: {
+      kick: ['X.......X.......', 'X.......X...x...', 'X...x...X.......', 'X.......X.....x.'],
+      snare: ['....X.......X...', '....X.......X...', '....X.......X..g', '....X.....g.X...'],
+      hats: ['8th', '8th', '16th', 'offbeat'],
+      perc: ['none', 'none', 'none', 'none'],
+      gsnare: true, fill: 'tom', crashEvery: 4
+    },
+    reggae: {
+      kick: ['........X.......', '........X.......', 'X...X...X...X...', '........X.......'],
+      snare: ['........X.......', '....x...X...x...', '........X.......', '........X.......'],
+      hats: ['8thOff', '8thOff', '8th', '16th'],
+      perc: ['rim', 'rim', 'shaker8', 'rim'],
+      fill: 'snare'
+    },
+    jazz: {
+      kick: ['X...x...X...x...', 'X...x...X...x...', 'X...x...X...x..x', 'X.......X.......'],
+      snare: ['....g.......g...', '....g.....g.g...', '....g.......g...', '....g...g...g...'],
+      hats: ['ride', 'ride', 'ride', 'ride'],
+      perc: ['none', 'none', 'none', 'none'],
+      fill: 'snare', swingHats: true
+    },
+    dnb: {
+      kick: ['X.....x...x.....', 'X.....x.x.x.....', 'X.....x...x..x..', 'X..x..x...x.....'],
+      snare: ['....X......x.X..', '....X...x..x.X..', '....X.....x.X...', '....X..x...x.X..'],
+      hats: ['16th', '16th', '8th', '16thRoll'],
+      perc: ['none', 'rim', 'none', 'shaker8'],
+      fill: 'hatroll'
+    },
+    funk: {
+      kick: ['X..x..x...x.....', 'X..x..x...x..x..', 'X..x....x.x.....', 'X..x..x...x.....'],
+      snare: ['....X.......X...', '....X.....g.X..g', '....X..g....X...', '....X.....g.X...'],
+      hats: ['16th', '16th', '16th', '16th'],
+      perc: ['none', 'rim', 'none', 'tamb'],
+      fill: 'snare'
+    },
+    reggaeton: {
+      kick: ['X.....x...x.....', 'X.....x...x..x..', 'X..x..x...x.....', 'X.....x...x.....'],
+      snare: ['....X..x....X..x', '....X..x....X..x', '....X..x....X..g', '....X..x..g.X..x'],
+      hats: ['8th', '16th', '8th', 'offbeat'],
+      perc: ['shaker16', 'shaker16', 'shaker8', 'shaker16'],
+      fill: 'snare'
+    },
+    afrobeats: {
+      kick: ['X..x..x...x.....', 'X..x..x..x......', 'X..x..x...x..x..', 'X..x..x...x.....'],
+      snare: ['....X.......X...', '....X..g....X...', '....X.......X..g', '....X...g...X...'],
+      hats: ['8th', '16th', 'offbeat', '16th'],
+      perc: ['shaker16', 'shaker16', 'shaker8', 'tamb'],
+      fill: 'tom'
+    },
+    bossa: {
+      kick: ['X.........x.....', 'X.........x.....', 'X.........x..x..', 'X.........x.....'],
+      snare: ['X..x..X...x.X...', 'X..x..X...x.....', 'X..x..X...x.X..x', 'X..x..X.....X...'],
+      hats: ['8th', 'sparse', '8th', 'none'],
+      perc: ['none', 'none', 'shaker8', 'none'],
+      fill: 'none', soft: true
+    },
+    synthwave: {
+      kick: ['X...X...X...X...', 'X...X...X...X...', 'X...X...X...X...', 'X...X...X...X...'],
+      snare: ['....X.......X...', '....X.......X...', '....X.......X..g', '....X.....g.X...'],
+      hats: ['8th', '8th', '16th', 'offbeat'],
+      perc: ['none', 'none', 'none', 'none'],
+      gsnare: true, fill: 'tom', crashEvery: 4
+    }
+  };
+
+  var KICK_OVERRIDES = {
+    four: 'X...X...X...X...',
+    one_drop: '........X.......',
+    steppers: 'X...X...X...X...',
+    dembow: 'X.....x...x.....',
+    breakbeat: 'X.....x...x..x..',
+    half: 'X.......x.......'
+  };
+
+  var BASS_BANK = {
+    boom_bap: [
+      [[0, 1.1, 0], [6, 0.55, 0], [10, 0.6, 7]],
+      [[0, 0.9, 0], [4, 0.5, 0], [7, 0.45, 0], [10, 0.6, 7]],
+      [[0, 1.4, 0], [6, 0.7, 0], [10, 0.5, 0], [14, 0.4, 7]],
+      [[0, 0.8, 0], [3, 0.4, 0], [6, 0.55, 0], [10, 0.6, 7], [13, 0.35, 0]]
+    ],
+    lofi: [
+      [[0, 2.4, 0], [10, 1.6, 7]],
+      [[0, 1.8, 0], [6, 0.9, 0], [10, 1.2, 7]],
+      [[0, 2.8, 0], [8, 0.8, 0], [12, 0.9, 7]],
+      [[0, 1.2, 0], [5, 0.5, 0], [8, 1.2, 7]]
+    ],
+    trap: [
+      [[0, 2.4, 0], [6, 1.6, 0], [11, 1.8, 7]],
+      [[0, 2.2, 0], [7, 1.4, 0], [10, 1.2, 0], [14, 0.6, 7]],
+      [[0, 2.0, 0], [4, 1.0, 0], [8, 1.6, 7], [12, 1.4, 0]],
+      [[0, 2.6, 0], [6, 0.9, 0], [8, 0.8, 0], [11, 1.6, 7]]
+    ],
+    drill: [
+      [[0, 2.2, 0], [7, 1.6, 5], [11, 1.8, 0]],
+      [[0, 2.0, 0], [3, 0.9, 0], [7, 1.4, 5], [11, 1.6, 0]],
+      [[0, 2.4, 0], [7, 1.0, 0], [10, 1.0, 5], [13, 1.2, 0]],
+      [[0, 1.8, 0], [6, 0.8, 0], [9, 1.2, 5], [12, 1.6, 0]]
+    ],
+    modernrap: [
+      [[0, 2.2, 0], [6, 1.4, 0], [11, 1.8, 7]],
+      [[0, 2.0, 0], [5, 0.9, 0], [8, 1.2, 0], [12, 1.4, 7]],
+      [[0, 2.6, 0], [7, 1.2, 5], [11, 1.6, 0]],
+      [[0, 1.6, 0], [4, 0.7, 0], [8, 1.2, 7], [12, 0.9, 0], [14, 0.5, 0]]
+    ],
+    house: [
+      [[0, 0.34, 0], [2, 0.34, 0], [4, 0.34, 0], [6, 0.34, 0], [8, 0.34, 0], [10, 0.34, 0], [12, 0.34, 0], [14, 0.34, 7]],
+      [[0, 0.4, 0], [3, 0.3, 0], [6, 0.4, 0], [10, 0.4, 7], [14, 0.3, 0]],
+      [[0, 0.9, 0], [4, 0.9, 0], [8, 0.9, 7], [12, 0.9, 0]],
+      [[2, 0.3, 0], [6, 0.3, 0], [10, 0.3, 7], [14, 0.3, 0]]
+    ],
+    rock: [
+      [[0, 0.42, 0], [2, 0.42, 0], [4, 0.42, 0], [6, 0.42, 0], [8, 0.42, 0], [10, 0.42, 0], [12, 0.42, 0], [14, 0.42, 0]],
+      [[0, 0.9, 0], [4, 0.9, 0], [8, 0.9, 0], [12, 0.9, 0]],
+      [[0, 0.42, 0], [2, 0.42, 0], [4, 0.42, 0], [6, 0.42, 7], [8, 0.42, 0], [10, 0.42, 0], [12, 0.42, 0], [14, 0.42, 7]],
+      [[0, 1.6, 0], [6, 0.4, 0], [8, 1.2, 0], [14, 0.4, 7]]
+    ],
+    rock80s: [
+      [[0, 0.42, 0], [2, 0.42, 0], [4, 0.42, 0], [6, 0.42, 0], [8, 0.42, 0], [10, 0.42, 0], [12, 0.42, 0], [14, 0.42, 7]],
+      [[0, 0.9, 0], [4, 0.9, 0], [8, 0.9, 0], [12, 0.9, 7]],
+      [[0, 0.42, 0], [2, 0.42, 0], [4, 0.42, 0], [6, 0.42, 7], [8, 0.42, 0], [10, 0.42, 0], [12, 0.42, 0], [14, 0.42, 7]],
+      [[0, 1.4, 0], [6, 0.5, 0], [8, 1.0, 7], [14, 0.5, 0]]
+    ],
+    phonk: [
+      [[0, 0.3, 0], [2, 0.3, 0], [4, 0.3, 0], [6, 0.3, 0], [8, 0.3, 0], [10, 0.3, 0], [12, 0.3, 0], [14, 0.3, 7]],
+      [[0, 0.5, 0], [3, 0.3, 0], [6, 0.5, 0], [10, 0.5, 7], [13, 0.3, 0]],
+      [[0, 1.2, 0], [6, 0.8, 0], [10, 1.0, 7]],
+      [[0, 0.4, 0], [4, 0.4, 0], [8, 0.4, 7], [12, 0.4, 0], [14, 0.3, 0]]
+    ],
+    dnb: [
+      [[0, 0.55, 0], [6, 0.35, 5], [10, 0.4, 0], [14, 0.28, 0]],
+      [[0, 0.45, 0], [4, 0.3, 0], [7, 0.3, 5], [10, 0.4, 0], [13, 0.3, 0]],
+      [[0, 0.7, 0], [6, 0.4, 0], [10, 0.5, 7], [12, 0.3, 0]],
+      [[0, 0.35, 0], [3, 0.3, 0], [6, 0.35, 5], [9, 0.3, 0], [12, 0.35, 0], [15, 0.25, 7]]
+    ],
+    funk: [
+      [[0, 0.22, 0], [3, 0.22, 0], [6, 0.22, 7], [7, 0.22, 0], [10, 0.22, 12], [12, 0.22, 0], [14, 0.22, 7]],
+      [[0, 0.2, 0], [2, 0.2, 0], [4, 0.2, 7], [6, 0.2, 0], [8, 0.2, 0], [11, 0.2, 12], [13, 0.2, 0], [15, 0.2, 7]],
+      [[0, 0.35, 0], [3, 0.3, 7], [6, 0.35, 0], [10, 0.35, 0], [14, 0.3, 7]],
+      [[0, 0.2, 0], [3, 0.2, 0], [6, 0.2, 7], [8, 0.2, 0], [10, 0.2, 12], [12, 0.2, 0], [14, 0.2, 0]]
+    ],
+    reggaeton: [
+      [[0, 0.32, 0], [3, 0.32, 0], [6, 0.32, 7], [8, 0.32, 0], [11, 0.32, 0], [14, 0.32, 7]],
+      [[0, 0.4, 0], [6, 0.4, 7], [8, 0.4, 0], [14, 0.4, 7]],
+      [[0, 0.3, 0], [3, 0.3, 0], [6, 0.3, 0], [10, 0.3, 7], [12, 0.3, 0], [15, 0.3, 7]],
+      [[0, 0.32, 0], [4, 0.32, 0], [8, 0.32, 7], [12, 0.32, 0]]
+    ],
+    afrobeats: [
+      [[0, 0.4, 0], [3, 0.4, 0], [6, 0.4, 7], [10, 0.4, 0], [14, 0.4, 0]],
+      [[0, 0.5, 0], [3, 0.4, 0], [6, 0.5, 7], [8, 0.4, 0], [11, 0.4, 0], [14, 0.4, 7]],
+      [[0, 0.35, 0], [3, 0.35, 0], [6, 0.35, 0], [10, 0.35, 7], [12, 0.35, 0], [14, 0.35, 0]],
+      [[0, 0.8, 0], [4, 0.8, 7], [8, 0.8, 0], [12, 0.8, 7]]
+    ],
+    synthwave: [
+      [[0, 0.42, 0], [2, 0.42, 0], [4, 0.42, 0], [6, 0.42, 7], [8, 0.42, 0], [10, 0.42, 0], [12, 0.42, 0], [14, 0.42, 7]],
+      [[0, 0.9, 0], [4, 0.9, 0], [8, 0.9, 7], [12, 0.9, 0]],
+      [[0, 0.42, 0], [2, 0.42, 0], [4, 0.42, 7], [6, 0.42, 0], [8, 0.42, 0], [10, 0.42, 7], [12, 0.42, 0], [14, 0.42, 7]],
+      [[0, 1.6, 0], [6, 0.5, 7], [8, 1.2, 0], [14, 0.4, 7]]
+    ]
+  };
+
+  function patternHits(str) {
+    var out = [];
+    for (var i = 0; i < str.length && i < 16; i++) {
+      var c = str.charAt(i);
+      if (c === '.' ) continue;
+      out.push({ step: i, ch: c });
+    }
+    return out;
+  }
+
+  function hatSteps(mode, energy, last, rng) {
+    var out = [];
+    var e = energy == null ? 0.5 : energy;
+    function p(step, vel, kind) { out.push({ step: step, vel: vel, kind: kind || 'hat' }); }
+    if (mode === 'none') return out;
+    if (mode === 'sparse') {
+      for (var s0 = 0; s0 < 16; s0 += 4) p(s0, 0.42);
+      return out;
+    }
+    if (mode === '8th') {
+      for (var s1 = 0; s1 < 16; s1 += 2) p(s1, s1 % 4 === 0 ? 0.58 : (0.34 + e * 0.1));
+      return out;
+    }
+    if (mode === '8thOff') {
+      for (var s2 = 0; s2 < 16; s2 += 2) {
+        if (s2 % 4 === 2 && rng() < 0.22) continue;
+        p(s2, s2 % 4 === 0 ? 0.56 : 0.34);
+      }
+      return out;
+    }
+    if (mode === '16th' || mode === '16thRoll') {
+      for (var s3 = 0; s3 < 16; s3++) {
+        var accent = s3 % 4 === 0;
+        p(s3, accent ? 0.56 : (s3 % 2 === 0 ? 0.3 : 0.18 + e * 0.06));
+      }
+      if (mode === '16thRoll' && last) {
+        for (var r = 0; r < 8; r++) p(12 + r * 0.25, 0.2 + r * 0.025);
+      }
+      return out;
+    }
+    if (mode === 'offbeat') {
+      for (var s4 = 2; s4 < 16; s4 += 4) p(s4, 0.38, 'openhat');
+      return out;
+    }
+    if (mode === 'offbeatOpen') {
+      for (var s5 = 2; s5 < 16; s5 += 4) p(s5, 0.38, 'openhat');
+      return out;
+    }
+    if (mode === 'offbeatOpen16') {
+      for (var s6 = 0; s6 < 16; s6++) {
+        if (s6 % 4 === 2) p(s6, 0.36, 'openhat');
+        else p(s6, s6 % 4 === 0 ? 0.5 : 0.2);
+      }
+      return out;
+    }
+    if (mode === 'ride') {
+      for (var s7 = 0; s7 < 16; s7 += 2) p(s7, s7 % 8 === 0 ? 0.6 : (s7 % 4 === 2 ? 0.44 : 0.34), 'ride');
+      return out;
+    }
+    return out;
+  }
+
+  function percSteps(mode, rng) {
+    var out = [];
+    function p(step, vel, kind) { out.push({ step: step, vel: vel, kind: kind }); }
+    if (mode === 'none') return out;
+    if (mode === 'shaker8') {
+      for (var s = 0; s < 16; s += 2) p(s, s % 4 === 0 ? 0.13 : 0.09, 'shaker');
+    } else if (mode === 'shaker16') {
+      for (var s2 = 0; s2 < 16; s2++) p(s2, s2 % 4 === 0 ? 0.12 : 0.07, 'shaker');
+    } else if (mode === 'rim') {
+      [3, 7, 11, 15].forEach(function (x) { if (rng() < 0.8) p(x, 0.2, 'rim'); });
+    } else if (mode === 'clave') {
+      [0, 3, 6, 10, 12].forEach(function (x) { p(x, 0.22, 'rim'); });
+    } else if (mode === 'tamb') {
+      for (var s3 = 0; s3 < 16; s3++) if (s3 % 2 === 1) p(s3, 0.08, 'shaker');
+    }
+    return out;
+  }
 
   function buildEvents(spec, rng) {
     var beatSec = 60 / spec.bpm;
@@ -1122,14 +1680,16 @@
 
     // ---- 和声进行
     var prog = pickProgression(spec, rng);
-    var ext = 'min';
-    if (spec.style === 'lofi') ext = rng() < 0.6 ? '9' : '7';
-    else if (spec.style === 'boom_bap' || spec.style === 'house') ext = rng() < 0.7 ? '7' : '9';
-    else if (spec.style === 'phonk') ext = '7';
-    else if (spec.style === 'jazz' || spec.style === 'bossa') ext = rng() < 0.55 ? '9' : '7';
-    else if (spec.style === 'funk') ext = '9';
-    else if (spec.style === 'reggae') ext = rng() < 0.5 ? '7' : 'min';
-    else if (isTrapish(spec.style)) ext = rng() < 0.3 ? '7' : 'min';
+    var ext = spec.ext || 'min';
+    if (!spec.ext) {
+      if (spec.style === 'lofi') ext = rng() < 0.6 ? '9' : '7';
+      else if (spec.style === 'boom_bap' || spec.style === 'house') ext = rng() < 0.7 ? '7' : '9';
+      else if (spec.style === 'phonk') ext = '7';
+      else if (spec.style === 'jazz' || spec.style === 'bossa') ext = rng() < 0.55 ? '9' : '7';
+      else if (spec.style === 'funk') ext = '9';
+      else if (spec.style === 'reggae') ext = rng() < 0.5 ? '7' : 'min';
+      else if (isTrapish(spec.style)) ext = rng() < 0.3 ? '7' : 'min';
+    }
 
     var bars = [];
     var prevVoicing = null;
@@ -1141,248 +1701,80 @@
       bars.push({ degree: deg, chord: voiced, bass: bassMidiFor(spec, deg), gtr: bassMidiFor(spec, deg) + 12 });
     }
 
-    // ---- 鼓组
-    var soft = spec.style === 'lofi' ? 0.85 : 1;
+    // ---- 鼓组（每种风格 4 条律动，按 seed / 关键词选择）
+    var bank = GROOVE_BANK[spec.style] || GROOVE_BANK.boom_bap;
+    var variant = (spec.variant == null ? 0 : spec.variant) % 4;
+    var energy = spec.energy == null ? 0.5 : spec.energy;
+    var soft = (spec.style === 'lofi' || bank.soft) ? 0.86 : 1;
+    var kickPat = bank.kick[variant % bank.kick.length];
+    if (spec.kickStyle && KICK_OVERRIDES[spec.kickStyle]) kickPat = KICK_OVERRIDES[spec.kickStyle];
+    if (spec.halfTime) kickPat = KICK_OVERRIDES.half;
+    if (spec.doubleTime && !spec.kickStyle && !spec.halfTime) kickPat = bank.kick[(variant + 2) % bank.kick.length];
+    var snarePat = bank.snare[variant % bank.snare.length];
+    if (spec.kickStyle === 'one_drop') snarePat = '........X.......';
+    if (spec.halfTime) snarePat = '........X.......';
+    if (spec.snareStyle === 'none') snarePat = '................';
+    var hatMode = spec.hatStyle || bank.hats[variant % bank.hats.length];
+    if (spec.noHats) hatMode = 'none';
+    if (spec.doubleTime) hatMode = '16thRoll';
+    if (energy > 0.74 && (hatMode === '8th' || hatMode === '8thOff' || hatMode === 'sparse')) hatMode = '16th';
+    if (energy < 0.3 && (hatMode === '16th' || hatMode === '16thRoll')) hatMode = '8th';
+    var percMode = spec.percStyle || bank.perc[variant % bank.perc.length];
+    if (spec.shaker) percMode = 'shaker16';
+    if (spec.tambourine) percMode = 'tamb';
+    var snareKind = bank.gsnare ? 'gsnare' : 'snare';
+
     for (var bar = 0; bar < spec.bars; bar++) {
       (function (bar) {
         var b0 = bar * 16;
         var last = bar === spec.bars - 1;
-        var style = spec.style;
         function push(kind, step, vel, jit, sw) {
           if (vel <= 0.01) return;
           var v = clamp(vel * (0.93 + rng() * 0.14), 0.02, 1);
           var track = TRACK_OF[kind] || 'perc';
-          ev[track].push({ kind: kind, t: tAt(b0 + step, sw !== false, jit || 0.004), vel: v, midi: 0 });
+          ev[track].push({ kind: kind, t: tAt(b0 + step, sw !== false, jit || 0.004), vel: v, midi: 0, bar: bar, step: step });
         }
-
-        if (style === 'boom_bap' || style === 'lofi') {
-          push('kick', 0, 1.0 * soft, 0.002, false);
-          push('kick', 6, 0.86 * soft, 0.002, false);
-          push('kick', 10, 0.80 * soft, 0.002, false);
-          if (rng() < 0.45) push('kick', 7, 0.55 * soft, 0.002, false);
-          if (rng() < 0.30) push('kick', 11, 0.5 * soft, 0.002, false);
-          if (last) { push('kick', 13, 0.5 * soft, 0.002, false); push('kick', 15, 0.62 * soft, 0.002, false); }
-
-          push('snare', 4, 0.95 * soft, 0.003, false);
-          push('snare', 12, 0.95 * soft, 0.003, false);
-          if (rng() < 0.5) push('snare', 7, 0.20 * soft, 0.006, false);
-          if (rng() < 0.4) push('snare', 15, 0.16 * soft, 0.006, false);
-          if (last) {
-            for (var r = 12; r < 16; r += 0.5) push('snare', r, 0.16 + (r - 12) * 0.09, 0.003, false);
+        function playPattern(str, kind, accent, normal, ghost, sw) {
+          patternHits(str).forEach(function (h) {
+            var v = h.ch === 'X' ? accent : (h.ch === 'g' ? ghost : normal);
+            push(kind, h.step, v * soft, 0.003, sw);
+          });
+        }
+        playPattern(kickPat, 'kick', 1.0, 0.82 + energy * 0.12, 0.34, false);
+        playPattern(snarePat, snareKind, 0.95, 0.72, 0.16, false);
+        if (bank.clap) {
+          patternHits(snarePat).forEach(function (h) {
+            if (h.ch === 'X') push('clap', h.step, 0.5 * soft, 0.005, false);
+          });
+        }
+        if (spec.snareStyle === 'clap') {
+          for (var ci = ev.snare.length - 1; ci >= 0; ci--) {
+            if (ev.snare[ci].bar === bar) ev.snare.splice(ci, 1);
           }
-
-          var openAt14 = rng() < 0.35;
-          for (var s = 0; s < 16; s += 2) {
-            var accent = s % 4 === 0;
-            var v = (accent ? 0.62 : 0.37) * soft + (rng() - 0.5) * 0.07;
-            if (rng() < spec.complexity * 0.35) push('hat', s + 1, v * 0.45, 0.004);
-            if (!(s === 14 && openAt14)) push('hat', s, v, 0.004);
-          }
-          if (openAt14) push('openhat', 14, 0.32 * soft, 0.004);
-          if (rng() < 0.4) push('rim', 11, 0.26 * soft, 0.006);
-          if (style === 'lofi') {
-            for (var sh = 0; sh < 16; sh++) if (rng() < 0.45) push('shaker', sh, 0.10, 0.008);
-          }
-        } else if (isTrapish(style)) {
-          var kickSteps = style === 'drill' ? [0, 7, 10] : [0, 6, 10];
-          push('kick', kickSteps[0], 1.0, 0.002, false);
-          push('kick', kickSteps[1], 0.9, 0.002, false);
-          push('kick', kickSteps[2], 0.85, 0.002, false);
-          if ((style === 'trap' || style === 'modernrap') && rng() < 0.55) push('kick', 3, 0.55, 0.002, false);
-          if (style === 'drill' && rng() < 0.5) push('kick', 13, 0.55, 0.002, false);
-          if (rng() < 0.4) push('kick', 14, 0.65, 0.002, false);
-
-          push('snare', 8, 0.95, 0.003, false);
-          push('clap', 8, 0.55, 0.005, false);
-          if (rng() < 0.3) push('snare', 15, 0.14, 0.005, false);
-
-          var openAt = 14;
-          var openHit = rng() < 0.5;
-          for (var h = 0; h < 16; h++) {
-            if (spec.triplet && h === 12) continue;
-            if (last && h >= 12 && !spec.triplet) {
-              for (var q = 0; q < 4; q++) push('hat', h + q * 0.25, 0.30 - q * 0.04, 0.002);
-            } else {
-              push('hat', h, h % 4 === 0 ? 0.55 : (h % 2 === 0 ? 0.34 : 0.21), 0.003);
-            }
-          }
-          if (spec.triplet) {
-            for (var tr = 0; tr < 6; tr++) push('hat', 12 + tr / 3, 0.22 + (tr % 3 === 0 ? 0.08 : 0), 0.002);
-          }
-          if (style === 'modernrap' && rng() < 0.6) {
-            var rollStart = rng() < 0.5 ? 6 : 14;
-            for (var mr = 0; mr < 8; mr++) push('hat', rollStart + mr * 0.125, 0.2 + (mr % 2) * 0.06, 0.002);
-          }
-          if (openHit) push('openhat', openAt, 0.34, 0.003);
-          if (rng() < 0.35) push('rim', 7, 0.22, 0.005);
-        } else if (style === 'house') {
-          push('kick', 0, 1.0, 0.001, false);
-          push('kick', 4, 1.0, 0.001, false);
-          push('kick', 8, 1.0, 0.001, false);
-          push('kick', 12, 1.0, 0.001, false);
-          push('clap', 4, 0.82, 0.003, false);
-          push('clap', 12, 0.82, 0.003, false);
-          push('openhat', 2, 0.38, 0.003);
-          push('openhat', 6, 0.38, 0.003);
-          push('openhat', 10, 0.38, 0.003);
-          push('openhat', 14, 0.38, 0.003);
-          for (var hh = 0; hh < 16; hh++) {
-            if (hh % 4 !== 0) push('hat', hh, hh % 2 === 0 ? 0.18 : 0.12, 0.004);
-          }
-          for (var ss = 0; ss < 16; ss++) if (rng() < 0.5) push('shaker', ss, 0.08, 0.006);
-          if (rng() < 0.3) push('rim', 7, 0.18, 0.005);
-        } else if (style === 'phonk') {
-          push('kick', 0, 1.0, 0.002, false);
-          push('kick', 6, 0.9, 0.002, false);
-          push('kick', 10, 0.85, 0.002, false);
-          if (rng() < 0.4) push('kick', 3, 0.6, 0.002, false);
-          push('snare', 4, 0.9, 0.003, false);
-          push('snare', 12, 0.9, 0.003, false);
-          if (rng() < 0.3) push('snare', 15, 0.15, 0.005, false);
-          for (var ph = 0; ph < 16; ph += 2) push('hat', ph, ph % 4 === 0 ? 0.5 : 0.32, 0.003);
-          if (rng() < 0.6) push('openhat', 14, 0.3, 0.003);
-          if (rng() < 0.4) push('rim', 7, 0.24, 0.005);
-        } else if (style === 'rock80s') {
-          // 80s：gated 军鼓（2/4 拍）、8 分镲、底鼓稍密，每 4 小节一个 crash，末小节 tom fill
-          push('kick', 0, 1.0, 0.001, false);
-          push('kick', 8, 0.95, 0.001, false);
-          if (rng() < 0.5) push('kick', 6, 0.7, 0.0015, false);
-          if (rng() < 0.3) push('kick', 14, 0.6, 0.0015, false);
-
-          push('gsnare', 4, 1.0, 0.001, false);
-          push('gsnare', 12, 1.0, 0.001, false);
-          if (rng() < 0.3) push('gsnare', 15, 0.3, 0.003, false);
-
-          for (var g8 = 0; g8 < 16; g8 += 2) {
-            push('hat', g8, g8 % 4 === 0 ? 0.55 : 0.36, 0.003, false);
-          }
-          if (rng() < 0.4) push('openhat', 14, 0.34, 0.003, false);
-
-          if (bar === 0 || bar % 4 === 0) push('crash', 0, 0.42, 0.002, false);
-          if (last) {
-            var fill80 = ['tomhi', 'tomhi', 'tommid', 'tommid', 'tomlo', 'tomlo', 'tommid', 'tomhi'];
-            for (var f80 = 0; f80 < fill80.length; f80++) {
-              push(fill80[f80], 12 + f80 * 0.5, 0.26 + f80 * 0.03, 0.003, false);
-            }
-          }
-        } else if (style === 'rock') {
-          // 现场鼓：底鼓 + 2/4 拍军鼓 + 8 分踩镲 + crash / tom fill
-          push('kick', 0, 1.0, 0.001, false);
-          push('kick', 8, 0.96, 0.001, false);
-          if (rng() < 0.62) push('kick', 6, 0.74, 0.0015, false);
-          if (rng() < 0.34) push('kick', 10, 0.68, 0.0015, false);
-          if (last && rng() < 0.6) {
-            push('kick', 13, 0.64, 0.0015, false);
-            push('kick', 15, 0.72, 0.0015, false);
-          }
-
-          push('snare', 4, 1.0, 0.001, false);
-          push('snare', 12, 1.0, 0.001, false);
-          if (rng() < 0.45) push('snare', 7, 0.17 * soft, 0.0045, false);
-          if (rng() < 0.36) push('snare', 15, 0.15 * soft, 0.0045, false);
-
-          var rockOpen = rng() < 0.45;
-          for (var rs2 = 0; rs2 < 16; rs2 += 2) {
-            if (rs2 === 14 && rockOpen) {
-              push('openhat', 14, 0.36, 0.003, false);
-              continue;
-            }
-            push('hat', rs2, rs2 % 4 === 0 ? 0.64 : 0.40, 0.003, false);
-          }
-
-          if (bar === 0 || bar % 4 === 0) push('crash', 0, 0.42, 0.002, false);
-          else if (rng() < 0.18) push('crash', 0, 0.18, 0.002, false);
-
-          if (last) {
+          patternHits(snarePat).forEach(function (h) {
+            if (h.ch !== '.') push('clap', h.step, (h.ch === 'X' ? 0.82 : 0.42) * soft, 0.005, false);
+          });
+        }
+        hatSteps(hatMode, energy, last, rng).forEach(function (h) {
+          push(h.kind, h.step, h.vel * (1 + (energy - 0.5) * 0.2) * soft, 0.003);
+        });
+        percSteps(percMode, rng).forEach(function (h) {
+          push(h.kind, h.step, h.vel * soft, 0.006, false);
+        });
+        if (bank.crashEvery && bar % bank.crashEvery === 0) push('crash', 0, 0.4, 0.002, false);
+        if (spec.crash && bar === 0) push('crash', 0, 0.5, 0.002, false);
+        if (last && !spec.noFills) {
+          if (bank.fill === 'snare' && spec.snareStyle !== 'none') {
+            for (var r = 12; r < 16; r += 0.5) push('snare', r, (0.15 + (r - 12) * 0.08) * soft, 0.003, false);
+          } else if (bank.fill === 'tom') {
             var fill = ['tomhi', 'tomhi', 'tommid', 'tommid', 'tomlo', 'tomlo', 'tommid', 'tomhi'];
-            for (var ft = 0; ft < fill.length; ft++) {
-              if (rng() < 0.84) push(fill[ft], 12 + ft * 0.5, 0.24 + ft * 0.035, 0.003, false);
-            }
+            for (var ft = 0; ft < fill.length; ft++) push(fill[ft], 12 + ft * 0.5, 0.24 + ft * 0.035, 0.003, false);
+          } else if (bank.fill === 'hatroll' && !spec.noHats) {
+            for (var hr = 0; hr < 8; hr++) push('hat', 12 + hr * 0.5, 0.18 + hr * 0.02, 0.002);
           }
-        } else if (style === 'reggae') {
-          // one drop：底鼓和军鼓都在第 3 拍，反拍留给风琴
-          push('kick', 8, 0.95, 0.002, false);
-          push('snare', 8, 0.72, 0.002, false);
-          push('rim', 0, 0.28, 0.004, false);
-          push('rim', 4, 0.22, 0.004, false);
-          push('rim', 12, 0.24, 0.004, false);
-          for (var rg = 2; rg < 16; rg += 4) push('hat', rg, 0.18, 0.004, false);
-        } else if (style === 'jazz') {
-          push('kick', 0, 0.32, 0.002, false);
-          push('kick', 4, 0.26, 0.002, false);
-          push('kick', 8, 0.3, 0.002, false);
-          push('kick', 12, 0.26, 0.002, false);
-          if (rng() < 0.35) push('snare', 6, 0.16, 0.006, true);
-          if (rng() < 0.3) push('snare', 14, 0.14, 0.006, true);
-          for (var jd = 0; jd < 16; jd += 2) {
-            push('ride', jd, jd % 8 === 0 ? 0.62 : (jd % 4 === 2 ? 0.48 : 0.36), 0.003, true);
-          }
-        } else if (style === 'dnb') {
-          push('kick', 0, 1.0, 0.001, false);
-          push('kick', 6, 0.72, 0.001, false);
-          push('kick', 10, 0.84, 0.001, false);
-          if (rng() < 0.45) push('kick', 13, 0.55, 0.001, false);
-          push('snare', 4, 0.92, 0.001, false);
-          push('snare', 11, 0.7, 0.001, false);
-          push('snare', 14, 0.55, 0.001, false);
-          for (var dh = 0; dh < 16; dh++) push('hat', dh, dh % 4 === 0 ? 0.42 : 0.2, 0.001, false);
-          if (rng() < 0.4) push('openhat', 14, 0.28, 0.002, false);
-        } else if (style === 'funk') {
-          push('kick', 0, 1.0, 0.001, false);
-          push('kick', 3, 0.62, 0.001, false);
-          push('kick', 6, 0.78, 0.001, false);
-          push('kick', 10, 0.84, 0.001, false);
-          if (rng() < 0.5) push('kick', 13, 0.5, 0.001, false);
-          push('snare', 4, 0.95, 0.001, false);
-          push('snare', 12, 0.95, 0.001, false);
-          push('snare', 7, 0.16, 0.003, false);
-          push('snare', 15, 0.14, 0.003, false);
-          if (rng() < 0.5) push('snare', 11, 0.12, 0.003, false);
-          for (var fh = 0; fh < 16; fh++) push('hat', fh, fh % 4 === 0 ? 0.5 : 0.26, 0.002, false);
-          if (rng() < 0.7) push('openhat', 14, 0.3, 0.002, false);
-        } else if (style === 'reggaeton') {
-          push('kick', 0, 1.0, 0.001, false);
-          push('kick', 3, 0.72, 0.001, false);
-          push('kick', 8, 0.92, 0.001, false);
-          push('kick', 11, 0.7, 0.001, false);
-          push('snare', 4, 0.55, 0.002, false);
-          push('snare', 7, 0.78, 0.002, false);
-          push('snare', 12, 0.55, 0.002, false);
-          push('snare', 15, 0.8, 0.002, false);
-          for (var gt = 0; gt < 16; gt++) if (gt % 2 === 0) push('shaker', gt, 0.16, 0.004, false);
-        } else if (style === 'afrobeats') {
-          push('kick', 0, 1.0, 0.001, false);
-          push('kick', 3, 0.7, 0.001, false);
-          push('kick', 6, 0.62, 0.001, false);
-          push('kick', 10, 0.86, 0.001, false);
-          if (rng() < 0.55) push('kick', 14, 0.58, 0.001, false);
-          push('snare', 4, 0.82, 0.002, false);
-          push('clap', 4, 0.4, 0.003, false);
-          push('snare', 12, 0.82, 0.002, false);
-          push('clap', 12, 0.4, 0.003, false);
-          push('rim', 7, 0.28, 0.003, false);
-          push('rim', 15, 0.24, 0.003, false);
-          for (var ah = 0; ah < 16; ah++) push('shaker', ah, ah % 4 === 0 ? 0.2 : 0.1, 0.004, false);
-          if (rng() < 0.4) push('openhat', 10, 0.26, 0.003, false);
-        } else if (style === 'bossa') {
-          push('kick', 0, 0.42, 0.002, false);
-          push('kick', 10, 0.34, 0.002, false);
-          push('rim', 0, 0.34, 0.003, false);
-          push('rim', 3, 0.28, 0.003, false);
-          push('rim', 6, 0.3, 0.003, false);
-          push('rim', 10, 0.32, 0.003, false);
-          push('rim', 12, 0.26, 0.003, false);
-          for (var bh = 0; bh < 16; bh += 2) push('hat', bh, 0.14, 0.004, false);
-          if (rng() < 0.3) push('snare', 4, 0.1, 0.005, false);
-        } else if (style === 'synthwave') {
-          push('kick', 0, 1.0, 0.001, false);
-          push('kick', 4, 1.0, 0.001, false);
-          push('kick', 8, 1.0, 0.001, false);
-          push('kick', 12, 1.0, 0.001, false);
-          push('gsnare', 4, 0.9, 0.001, false);
-          push('gsnare', 12, 0.9, 0.001, false);
-          for (var sw8 = 0; sw8 < 16; sw8 += 2) push('hat', sw8, sw8 % 4 === 0 ? 0.48 : 0.3, 0.002, false);
-          if (bar % 4 === 0) push('crash', 0, 0.28, 0.002, false);
+        }
+        if (spec.triplet && !last) {
+          for (var tr = 0; tr < 3; tr++) push('hat', 12 + tr / 3, 0.22, 0.002);
         }
       })(bar);
     }
@@ -1404,74 +1796,52 @@
         });
       }
 
-      if (spec.style === 'trap') {
-        bpush(0, root, 2.4, 0.95);
-        bpush(6, root, 1.6, 0.88);
-        bpush(11, root + (rng() < 0.5 ? 0 : 7), 1.8, 0.82, { from: root, glide: 0.12 });
-      } else if (spec.style === 'drill') {
+      if (spec.noBass) continue;
+      var bassPat = BASS_BANK[spec.style] && BASS_BANK[spec.style][variant % BASS_BANK[spec.style].length];
+      var eBoost = 0.86 + energy * 0.2;
+
+      if (spec.bassStyle === 'walking' || spec.style === 'jazz') {
+        var walk = [0, 1, 2, rng() < 0.5 ? 4 : 6];
+        for (var wi = 0; wi < 4; wi++) {
+          bpush(wi * 4, scaleMidi(spec, info.degree + walk[wi], 2), 0.92, wi === 0 ? 0.82 : 0.62);
+        }
+      } else if (spec.bassStyle === 'slap') {
+        var slapSteps = [0, 2, 3, 6, 7, 10, 11, 14];
+        for (var si2 = 0; si2 < slapSteps.length; si2++) {
+          var ss = slapSteps[si2];
+          var sn = root + (ss === 3 || ss === 11 ? 12 : (ss === 7 ? 7 : 0));
+          bpush(ss, sn, 0.16, ss % 4 === 0 ? 0.92 : 0.66);
+        }
+      } else if (spec.bassStyle === 'offbeat') {
+        [2, 6, 10, 14].forEach(function (os) {
+          bpush(os, root + (os === 14 ? 7 : 0), 0.32, 0.78);
+        });
+      } else if (spec.bassStyle === 'sub') {
+        bpush(0, root, 3.8, 0.95);
+        bpush(8, root, 3.6, 0.72);
+      } else if (spec.bassStyle === 'glide') {
         bpush(0, root, 2.2, 0.95);
-        bpush(7, root, 1.6, 0.88, { from: root + 5, glide: 0.18 });
-        bpush(11, root, 1.8, 0.85);
-        if (rng() < 0.4) bpush(14, root - 2, 0.6, 0.6, { from: root, glide: 0.1 });
-      } else if (spec.style === 'house') {
-        for (var hs = 0; hs < 16; hs += 2) {
-          bpush(hs, hs === 14 ? root + 12 : root, 0.34, hs % 4 === 0 ? 0.9 : 0.65);
+        bpush(7, root + 5, 1.2, 0.84, { from: root, glide: 0.18 });
+        bpush(11, root, 1.6, 0.82, { from: root + 7, glide: 0.14 });
+        if (rng() < 0.5) bpush(14, root - 2, 0.5, 0.55, { from: root, glide: 0.1 });
+      } else if (bassPat) {
+        for (var bi = 0; bi < bassPat.length; bi++) {
+          var bp = bassPat[bi];
+          var bs = bp[0], bd = bp[1], biv = bp[2];
+          var glide = (spec.style === 'trap' || spec.style === 'drill' || spec.style === 'modernrap') && bi > 0 && biv !== 0;
+          bpush(bs, root + biv, bd, (bs % 4 === 0 ? 0.92 : 0.7) * eBoost,
+            glide ? { from: root, glide: spec.style === 'drill' ? 0.16 : 0.11 } : null);
         }
-      } else if (isRockish(spec.style)) {
-        // 电贝斯跟八分音符，句子末尾走向五度 / 高八度
-        for (var rbs = 0; rbs < 16; rbs += 2) {
-          var bnote = root;
-          if (rbs === 6) bnote = root + 7;
-          else if (rbs === 14) bnote = root + 12;
-          bpush(rbs, bnote, 0.42, rbs % 4 === 0 ? 0.95 : 0.76);
-        }
-        if (bb === spec.bars - 1) bpush(15, root + 12, 0.3, 0.62);
-      } else if (spec.style === 'phonk') {
-        for (var ps = 0; ps < 16; ps += 2) {
-          if (ps === 12 && rng() < 0.5) continue;
-          bpush(ps, root, 0.3, ps % 4 === 0 ? 0.85 : 0.6);
-        }
-      } else if (spec.style === 'lofi') {
-        bpush(0, root, 2.4, 0.9);
-        bpush(10, root + (rng() < 0.5 ? 0 : 7), 1.6, 0.7);
+        if (bb === spec.bars - 1 && rng() < 0.55) bpush(15, root + 12, 0.28, 0.5);
       } else if (spec.style === 'reggae') {
         bpush(0, root, 1.3, 0.95);
         bpush(6, root + 7, 0.7, 0.78);
         bpush(10, root, 1.1, 0.82);
         if (rng() < 0.35) bpush(14, root + 12, 0.45, 0.55);
-      } else if (spec.style === 'jazz') {
-        var walk = [0, 1, 2, rng() < 0.5 ? 4 : 6];
-        for (var wi = 0; wi < 4; wi++) {
-          bpush(wi * 4, scaleMidi(spec, info.degree + walk[wi], 2), 0.92, wi === 0 ? 0.82 : 0.62);
-        }
-      } else if (spec.style === 'dnb') {
-        bpush(0, root, 0.55, 0.95);
-        bpush(6, root, 0.35, 0.7, { from: root + 5, glide: 0.08 });
-        bpush(10, root + (rng() < 0.5 ? 0 : 7), 0.4, 0.82);
-        bpush(14, root, 0.28, 0.6);
-      } else if (spec.style === 'funk') {
-        var funkSteps = [0, 3, 6, 7, 10, 12, 14];
-        for (var fi = 0; fi < funkSteps.length; fi++) {
-          var fs = funkSteps[fi];
-          var fn = root + (fs === 6 || fs === 14 ? 7 : (fs === 10 ? 12 : 0));
-          bpush(fs, fn, 0.22, fs % 4 === 0 ? 0.95 : 0.7);
-        }
-      } else if (spec.style === 'reggaeton') {
-        [0, 3, 6, 8, 11, 14].forEach(function (gs) {
-          bpush(gs, gs === 6 || gs === 14 ? root + 7 : root, 0.32, gs % 8 === 0 ? 0.9 : 0.68);
-        });
-      } else if (spec.style === 'afrobeats') {
-        [0, 3, 6, 10, 14].forEach(function (as) {
-          bpush(as, as === 10 ? root + 7 : root, 0.4, as === 0 ? 0.9 : 0.7);
-        });
       } else if (spec.style === 'bossa') {
         bpush(0, root, 1.6, 0.75);
         bpush(6, root + 7, 0.7, 0.55);
         bpush(10, root + (rng() < 0.4 ? 4 : 0), 1.2, 0.62);
-      } else if (spec.style === 'synthwave') {
-        for (var sy = 0; sy < 16; sy += 2) {
-          bpush(sy, sy % 8 === 6 ? root + 7 : root, 0.42, sy % 4 === 0 ? 0.88 : 0.62);
-        }
       } else {
         bpush(0, root, 1.1, 0.95);
         bpush(6, root, 0.55, 0.8);
@@ -1541,6 +1911,136 @@
       }
     }
 
+    // ---- 和弦律动变体 + 额外乐器层
+    if (!spec.drumsOnly) {
+      var barSec = beatSec * 4;
+      var chordMode = spec.chordStyle;
+      if (!chordMode) {
+        if (spec.variant === 2 && /^(house|synthwave|dnb|reggaeton|rock80s)$/.test(spec.style)) chordMode = 'sustain';
+        else if (spec.variant === 3 && /^(boom_bap|lofi|funk|jazz|bossa|reggae)$/.test(spec.style)) chordMode = 'stab';
+      }
+      if (chordMode === 'sustain' || chordMode === 'stab' || chordMode === 'arp' || chordMode === 'pluck') {
+        for (var cbar = 0; cbar < spec.bars; cbar++) {
+          var cStart = cbar * barSec, cEnd = cStart + barSec;
+          var inBar = [], first = null;
+          for (var qi = 0; qi < ev.chords.length; qi++) {
+            var qe = ev.chords[qi];
+            if (qe.t >= cStart - 0.001 && qe.t < cEnd - 0.001) {
+              inBar.push(qe);
+              if (!first || qe.t < first.t) first = qe;
+            }
+          }
+          var cNotes = first ? first.notes : bars[cbar].chord;
+          for (var qj = ev.chords.length - 1; qj >= 0; qj--) {
+            var qq = ev.chords[qj];
+            if (qq.t >= cStart - 0.001 && qq.t < cEnd - 0.001) ev.chords.splice(qj, 1);
+          }
+          var cpush2 = function (step, beats, vel, kind, notes) {
+            ev.chords.push({
+              t: tAt(cbar * 16 + step, true, 0.005),
+              dur: beats * beatSec,
+              vel: vel,
+              kind: kind,
+              notes: notes || cNotes
+            });
+          };
+          if (chordMode === 'sustain') {
+            cpush2(0, 3.9, (first ? first.vel : 0.42) * 1.05, (first && first.kind === 'stab') ? 'pad' : (first ? first.kind : 'pad'));
+          } else if (chordMode === 'stab') {
+            [0, 2, 6, 7, 10, 14].forEach(function (st, si3) {
+              cpush2(st, 0.2, (si3 % 2 === 0 ? 0.52 : 0.36), 'stab');
+            });
+          } else if (chordMode === 'arp') {
+            var arpOrder = [0, 1, 2, 3, 2, 1];
+            for (var ai2 = 0; ai2 < 16; ai2 += 1) {
+              if (spec.variant === 1 && ai2 % 2 === 1 && rng() < 0.4) continue;
+              var an = cNotes[arpOrder[ai2 % arpOrder.length] % cNotes.length] + 12;
+              cpush2(ai2, 0.16, ai2 % 4 === 0 ? 0.46 : 0.28, spec.style === 'synthwave' ? 'pulse' : 'pluck', [an]);
+            }
+          } else if (chordMode === 'pluck') {
+            [0, 3, 6, 10, 14].forEach(function (st2, si4) {
+              cpush2(st2, 0.24, si4 % 2 === 0 ? 0.44 : 0.3, 'pluck');
+            });
+          }
+        }
+      }
+
+      // 用户点名的乐器：叠加到和弦 / 旋律分轨
+      for (var ib = 0; ib < spec.bars; ib++) {
+        var ib0 = ib * 16;
+        var ch = bars[ib].chord;
+        var chHi = ch.map(function (n) { return n + 12; });
+        function ipush(step, beats, vel, kind, notes) {
+          ev.chords.push({
+            t: tAt(ib0 + step, true, 0.006),
+            dur: beats * beatSec,
+            vel: vel,
+            kind: kind,
+            notes: notes || ch
+          });
+        }
+        if (spec.addPiano) {
+          [0, 6, 10].forEach(function (ps2) { ipush(ps2, 0.75, ps2 === 0 ? 0.46 : 0.34, 'piano'); });
+        }
+        if (spec.addStrings) ipush(0, 3.9, 0.42, 'strings', chHi);
+        if (spec.addOrgan) {
+          [2, 6, 10, 14].forEach(function (os2) { ipush(os2, 0.3, 0.4, 'organ'); });
+        }
+        if (spec.addPad) ipush(0, 3.9, 0.36, 'pad', chHi);
+        if (spec.addPluck) {
+          [0, 3, 6, 10, 14].forEach(function (ps3, pi3) {
+            ipush(ps3, 0.25, pi3 % 2 === 0 ? 0.4 : 0.28, 'pluck',
+              [ch[pi3 % ch.length] + 12]);
+          });
+        }
+        if (spec.addSax) {
+          var saxSteps = spec.variant % 2 === 0 ? [0, 8] : [2, 10];
+          saxSteps.forEach(function (ss2, sx) {
+            ev.melody.push({
+              kind: 'sax',
+              t: tAt(ib0 + ss2, true, 0.012),
+              dur: (sx === 0 ? 1.2 : 0.8) * beatSec,
+              vel: 0.5,
+              midi: snapToChord(ch[1 + (ib % 2)] + 12 - 12, ch) + 12
+            });
+          });
+        }
+        if (spec.addSynth) {
+          [0, 2, 4, 7, 8, 10, 12, 14].forEach(function (ss3) {
+            ev.melody.push({
+              kind: 'pulse',
+              t: tAt(ib0 + ss3, false, 0.002),
+              dur: 0.14 * beatSec,
+              vel: ss3 % 4 === 0 ? 0.48 : 0.28,
+              midi: ch[(ss3 / 2) % ch.length] + 12
+            });
+          });
+        }
+        if (spec.addBell) {
+          [0, 4, 8, 12].forEach(function (ss4, bi2) {
+            ev.melody.push({
+              kind: 'bell',
+              t: tAt(ib0 + ss4, true, 0.006),
+              dur: 0.4 * beatSec,
+              vel: 0.34,
+              midi: chHi[(bi2 + ib) % chHi.length]
+            });
+          });
+        }
+        if (spec.addCowbell) {
+          [2, 6, 10, 14].forEach(function (ss5) {
+            ev.melody.push({
+              kind: 'cowbell',
+              t: tAt(ib0 + ss5, false, 0.003),
+              dur: 0.16 * beatSec,
+              vel: 0.3,
+              midi: ch[0] + 12
+            });
+          });
+        }
+      }
+    }
+
     // ---- 节奏吉他（Rock 或“加吉他”叠加）
     if (!spec.drumsOnly && (isRockish(spec.style) || spec.guitarLayer)) {
       for (var gb = 0; gb < spec.bars; gb++) {
@@ -1584,9 +2084,10 @@
     if (!spec.drumsOnly && spec.melody > 0.02) {
       if (spec.style === 'phonk') {
         var riff = [0, 0, 3, 0, 5, 3, 0, 3, 0, 0, 3, 0, 5, 3, 2, 0];
+        var riffOff = (spec.seed >>> 4) % riff.length;
         for (var pb = 0; pb < spec.bars; pb++) {
           for (var pi = 0; pi < 16; pi += 2) {
-            var rd = riff[(pi / 2 + pb * 2) % riff.length];
+            var rd = riff[(pi / 2 + pb * 2 + riffOff) % riff.length];
             if (pi % 8 === 6 && rng() < 0.25) continue;
             var pMidi = scaleMidi(spec, rd + 4, 4);
             ev.melody.push({
@@ -1601,12 +2102,13 @@
       } else if (isRockish(spec.style)) {
         // 主音吉他：重复的 2 小节乐句，强拍落在和弦音上
         var rockRiff = [0, 0, 3, 2, 0, 5, 4, 2, 0, 0, 3, 5, 4, 2, 0, 0];
+        var rockOff = (spec.seed >>> 5) % rockRiff.length;
         var playProb = 0.45 + spec.melody * 0.40;
         for (var rb = 0; rb < spec.bars; rb++) {
           for (var ri = 0; ri < 8; ri++) {
             if (rb === 0 && ri < 2) continue;
             if (rng() > playProb) continue;
-            var rdeg = rockRiff[(ri + rb * 2) % rockRiff.length];
+            var rdeg = rockRiff[(ri + rb * 2 + rockOff) % rockRiff.length];
             var rMidi = scaleMidi(spec, 4 + rdeg, 4);
             if (ri % 4 === 0) rMidi = snapToChord(rMidi, bars[rb].chord);
             ev.melody.push({
@@ -1619,7 +2121,9 @@
           }
         }
       } else if (spec.style === 'synthwave') {
-        var arp = [0, 2, 4, 7, 4, 2, 0, 4];
+        var arpSets = [[0, 2, 4, 7, 4, 2, 0, 4], [0, 4, 2, 7, 4, 7, 2, 0], [0, 2, 4, 2, 7, 4, 2, 4], [0, 4, 7, 4, 2, 0, 2, 4]];
+        var arp = arpSets[spec.variant % arpSets.length];
+        var arpOff = (spec.seed >>> 6) % arp.length;
         for (var sb = 0; sb < spec.bars; sb++) {
           for (var si = 0; si < 16; si++) {
             if (si % 2 === 1 && rng() < 0.4) continue;
@@ -1628,16 +2132,17 @@
               t: tAt(sb * 16 + si, false, 0.001),
               dur: 0.11,
               vel: si % 4 === 0 ? 0.55 : 0.3,
-              midi: snapToChord(scaleMidi(spec, arp[si % arp.length], 5), bars[sb].chord)
+              midi: snapToChord(scaleMidi(spec, arp[(si + arpOff) % arp.length], 5), bars[sb].chord)
             });
           }
         }
       } else if (spec.style === 'jazz') {
         var jline = [0, 2, 4, 2, 5, 4, 2, 0];
+        var jOff = (spec.seed >>> 4) % jline.length;
         for (var jb = 0; jb < spec.bars; jb++) {
           for (var ji = 0; ji < 4; ji++) {
             if (rng() < 0.18) continue;
-            var jm = scaleMidi(spec, jline[(ji + jb) % jline.length] + 2, 4);
+            var jm = scaleMidi(spec, jline[(ji + jb + jOff) % jline.length] + 2 + (spec.variant % 2), 4);
             if (ji === 0) jm = snapToChord(jm, bars[jb].chord);
             ev.melody.push({
               kind: 'pluck',
@@ -1662,7 +2167,8 @@
           });
         }
       } else if (spec.style === 'afrobeats') {
-        var ariff = [0, 0, 2, 4, 2, 0, 4, 2];
+        var ariffSets = [[0, 0, 2, 4, 2, 0, 4, 2], [0, 2, 0, 4, 2, 4, 0, 2], [0, 0, 4, 2, 0, 2, 4, 0], [0, 4, 2, 0, 2, 4, 0, 2]];
+        var ariff = ariffSets[spec.variant % ariffSets.length];
         for (var ab = 0; ab < spec.bars; ab++) {
           for (var ai = 0; ai < 8; ai++) {
             if (ai % 4 === 3 && rng() < 0.4) continue;
@@ -1708,7 +2214,7 @@
             if (Math.floor(note.s / 16) !== m0) continue;
             if (mb % 4 === 3 && rng() < 0.3) continue;
             var d = clamp(note.deg - variation, 0, 11);
-            var midi = scaleMidi(spec, d, 4);
+            var midi = scaleMidi(spec, d, 4 + (spec.register || 0));
             if (note.s % 4 === 0) midi = snapToChord(midi, bars[mb].chord);
             var durBeats = note.len * 0.5;
             ev.melody.push({
@@ -1800,6 +2306,14 @@
   function buildStems(spec, comp, len, rng) {
     var beatSec = 60 / spec.bpm;
     var ev = comp.ev;
+    // 同风格也有细微音色差异（音高、衰减、滤波）
+    var toneShift = ((spec.seed >>> 9) % 100) / 100;
+    var baseKick = KICK_CFG[spec.style] || KICK_CFG.boom_bap;
+    var kcfg = {};
+    for (var kk in baseKick) kcfg[kk] = baseKick[kk];
+    kcfg.f0 = baseKick.f0 * (0.94 + toneShift * 0.13);
+    kcfg.f1 = baseKick.f1 * (0.96 + toneShift * 0.08);
+    kcfg.decay = baseKick.decay * (0.9 + toneShift * 0.22);
     var mono = {};
     ['kick', 'snare', 'hat', 'perc', 'bass', 'guitar', 'chords', 'melody', 'flute'].forEach(function (id) {
       mono[id] = new Float32Array(len);
@@ -1807,7 +2321,7 @@
 
     // 鼓
     ev.kick.forEach(function (e) {
-      addKick(mono.kick, toMonoEventSample(e.t, spec), e.vel, KICK_CFG[spec.style] || KICK_CFG.boom_bap, rng);
+      addKick(mono.kick, toMonoEventSample(e.t, spec), e.vel, kcfg, rng);
     });
     ev.snare.forEach(function (e) {
       var i = toMonoEventSample(e.t, spec);
@@ -1856,7 +2370,11 @@
     });
 
     // 和弦
-    var epCfg = EP_CFG[spec.style] || EP_CFG.boom_bap;
+    var baseEp = EP_CFG[spec.style] || EP_CFG.boom_bap;
+    var epCfg = {};
+    for (var ek in baseEp) epCfg[ek] = baseEp[ek];
+    epCfg.decay = baseEp.decay * (0.88 + toneShift * 0.28);
+    epCfg.lp = baseEp.lp * (0.92 + toneShift * 0.16);
     var chordInstGain = ((isTrapish(spec.style)) ? 0.78 : (spec.style === 'house' ? 1.35 : 1));
     ev.chords.forEach(function (e) {
       e.notes.forEach(function (midi, ni) {
@@ -1865,6 +2383,8 @@
         var v = e.vel * (ni === 0 ? 1 : 0.82) * chordInstGain;
         if (e.kind === 'stab') addStab(mono.chords, i, f, e.dur, v, spec.bright, rng);
         else if (e.kind === 'pad') addPad(mono.chords, i, f, e.dur, v);
+        else if (e.kind === 'piano') addPiano(mono.chords, i, f, e.dur, v, rng);
+        else if (e.kind === 'strings') addStrings(mono.chords, i, f, e.dur, v);
         else if (e.kind === 'organ') addOrgan(mono.chords, i, f, e.dur, v);
         else if (e.kind === 'pluck') addPluck(mono.chords, i, f, e.dur, v, spec.style === 'bossa', rng);
         else addEP(mono.chords, i, f, e.dur, v, epCfg);
@@ -1881,6 +2401,7 @@
       if (e.kind === 'bell') addBell(mono.melody, i, f, e.dur, e.vel * melodyInstGain, spec.bright < 0.45);
       else if (e.kind === 'cowbell') addCowbell(mono.melody, i, f, e.dur, e.vel * melodyInstGain);
       else if (e.kind === 'pulse') addPulse(mono.melody, i, f, e.dur, e.vel * melodyInstGain);
+      else if (e.kind === 'sax') addSax(mono.melody, i, f, e.dur, e.vel * melodyInstGain, rng);
       else if (e.kind === 'lead') { hasLead = true; addGuitar(leadBuf, i, f, e.dur, e.vel * melodyInstGain, { lead: true, rng: rng }); }
       else addPluck(mono.melody, i, f, e.dur, e.vel, spec.style === 'lofi' || spec.style === 'bossa', rng);
     });
@@ -1930,6 +2451,24 @@
     for (var fc = 0; fc < len; fc++) {
       fx.l[fc] += crash[fc] * 0.5;
       fx.r[fc] += crash[fc] * 0.5;
+    }
+
+    // 侧链抽吸：底鼓一响，和弦与贝斯短暂让位
+    if (spec.sidechain) {
+      var duck = new Float32Array(len);
+      ev.kick.forEach(function (e) {
+        var di = toMonoEventSample(e.t, spec);
+        var dn = Math.floor(0.22 * SR);
+        for (var dk = 0; dk < dn && di + dk < len; dk++) {
+          var dv = Math.exp(-dk / (0.075 * SR));
+          if (dv > duck[di + dk]) duck[di + dk] = dv;
+        }
+      });
+      ['chords', 'bass'].forEach(function (sid) {
+        var sb = mono[sid];
+        if (!sb) return;
+        for (var si = 0; si < len; si++) sb[si] *= 1 - 0.55 * duck[si];
+      });
     }
 
     // 淡入淡出，避免循环首尾爆音
@@ -2063,9 +2602,27 @@
 
     // 风格化音色
     var lpFreq = spec.style === 'lofi' ? 9500 : (spec.style === 'rock' ? 18000 : (spec.bright < 0.4 ? 11000 : (spec.style === 'trap' ? 19500 : 16500)));
+    if (spec.tape) { lpFreq = Math.min(lpFreq, 8200); }
     if (lpFreq < 20000) { lowpass(l, lpFreq); lowpass(r, lpFreq); }
 
+    // 磁带抖动：短延迟 + 缓慢音高波动
+    if (spec.tape) {
+      var tmax = Math.floor(0.022 * SR);
+      var tbl = new Float32Array(tmax), tbr = new Float32Array(tmax);
+      var tw = 0;
+      for (var ti = 0; ti < l.length; ti++) {
+        var tmod = Math.floor((0.005 + 0.0025 * Math.sin(ti / SR * TAU * 0.7)) * SR);
+        var trd = (tw - tmod + tmax) % tmax;
+        var tyl = l[ti] * 0.76 + tbl[trd] * 0.24;
+        var tyr = r[ti] * 0.76 + tbr[trd] * 0.24;
+        tbl[tw] = l[ti]; tbr[tw] = r[ti];
+        l[ti] = tyl; r[ti] = tyr;
+        tw = (tw + 1) % tmax;
+      }
+    }
+
     var drive = spec.style === 'phonk' ? 1.9 : (spec.style === 'rock' ? 1.32 : (isTrapish(spec.style) ? 1.25 : 1.06));
+    if (spec.distortion) drive *= 1.45;
     for (var j = 0; j < l.length; j++) {
       l[j] = Math.tanh(l[j] * drive) / Math.tanh(drive);
       r[j] = Math.tanh(r[j] * drive) / Math.tanh(drive);
@@ -2274,6 +2831,18 @@
     spec.seed = (spec.seed == null ? 1 : spec.seed) >>> 0;
     spec.guitarLayer = !!spec.guitarLayer;
     spec.flute = !!spec.flute;
+    spec.variant = clamp(Math.floor(spec.variant == null ? 0 : spec.variant), 0, 3);
+    spec.energy = clamp(spec.energy == null ? 0.5 : spec.energy, 0, 1);
+    ['addPiano', 'addStrings', 'addOrgan', 'addSax', 'addSynth', 'addBell', 'addCowbell', 'addPluck', 'addPad',
+      'halfTime', 'doubleTime', 'noHats', 'shaker', 'tambourine', 'crash', 'noFills', 'noBass',
+      'tape', 'delayFx', 'sidechain', 'distortion', 'sus'].forEach(function (bk) {
+      spec[bk] = !!spec[bk];
+    });
+    ['kickStyle', 'hatStyle', 'snareStyle', 'percStyle', 'bassStyle', 'chordStyle'].forEach(function (sk) {
+      spec[sk] = spec[sk] || '';
+    });
+    spec.register = spec.register === 1 ? 1 : (spec.register === -1 ? -1 : 0);
+    spec.ext = (spec.ext === '7' || spec.ext === '9') ? spec.ext : '';
     spec.songEdits = (spec.songEdits || []).filter(function (e) {
       return e && typeof e === 'object' && e.type && typeof e.bar === 'number' &&
         e.bar >= 0 && e.bar < 32 && ['fill', 'tom', 'crash', 'shaker', 'flute', 'mute'].indexOf(e.type) >= 0;
@@ -2381,6 +2950,22 @@
       pan: 0,
       send: 0
     });
+
+    // 回声 / 延迟
+    if (spec.delayFx) {
+      var dly = Math.max(1, Math.round(beatSec * 0.75 * SR));
+      var fb = 0.34, dmix = 0.26;
+      var dl = new Float32Array(len), dr = new Float32Array(len);
+      for (var di = 0; di < len; di++) {
+        var src = sendMono[di] * dmix;
+        var backL = di >= dly ? dl[di - dly] * fb : 0;
+        var backR = di >= dly ? dr[di - dly] * fb : 0;
+        dl[di] = src + backR;
+        dr[di] = src + backL;
+        mixL[di] += dl[di];
+        mixR[di] += dr[di];
+      }
+    }
 
     if (onPhase) onPhase('master');
     var prePeak = 0;
@@ -2823,6 +3408,14 @@
     } else if (/加\s*808|要\s*808|带\s*808/.test(t)) {
       s.no808 = false; notes.push(rn('keep808'));
     }
+
+    if (/换.{0,4}(律动|变体|鼓|节奏)|new\s*groove|another\s*groove|different\s*groove/.test(t)) {
+      s.variant = (s.variant + 1) % 4;
+      notes.push(tr('refineNotes.newGroove', s.variant + 1));
+    }
+
+    // 新增的鼓组 / 乐器 / 和弦 / 音效维度，与主输入共用同一套解析
+    applyTraits(s, t, notes);
 
     var clauses = t.split(/[，,。；;\n]/);
     clauses.forEach(function (c) {

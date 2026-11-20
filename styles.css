@@ -1088,3 +1088,12 @@ input[type="range"]::-moz-range-thumb {
   transition: border-color 0.15s, background 0.15s;
 }
 .lang-btn:hover { border-color: var(--accent, #d9ff57); background: rgba(217, 255, 87, 0.16); }
+
+.prompt-tip {
+  margin: 8px 0 0;
+  font-size: 12px;
+  line-height: 1.6;
+  color: var(--muted);
+  border-left: 2px solid var(--line);
+  padding-left: 10px;
+}
